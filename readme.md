@@ -363,4 +363,4 @@ API endpoint list are also available as published postman documentation
 
 :rocket: [`Demo Recipes`](https://team-project-kelompok1-pijar-frontend.vercel.app/home)
 
-Project link : [https://github.com/sandriirawan/Fe_Blanja_React](https://github.com/vineas/team-project_kelompok1_pijar_frontend)]
+Project link : [https://github.com/izaazwaskito/FoodRecipe-BE](https://github.com/izaazwaskito/FoodRecipe-BE)]
