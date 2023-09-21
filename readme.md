@@ -11,9 +11,7 @@
 
 # Mama Recipes
 
-Find your recipes
-
-And make delicious food
+Food Recipe, a practical recipe management website designed to help you organize and find your favorite recipes effortlessly. With Food Recipe, you can manage your recipe collection, add new recipes, and even create shopping lists to streamline your grocery store visits.
 
 # Database Schema
 
